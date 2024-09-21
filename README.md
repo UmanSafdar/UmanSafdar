@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uman Safdar</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" scr="https://media.istockphoto.com/id/1248949754/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=j4Qej0zE7XjD8toU04tBur3ofwa_zA6XFK08zwoVbb4="
+<img align="right" alt="coding" width="400" scr="https://media.istockphoto.com/id/1248949754/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=j4Qej0zE7XjD8toU04tBur3ofwa_zA6XFK08zwoVbb4="/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umansafdar&label=Profile%20views&color=0e75b6&style=flat" alt="umansafdar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umansafdar" alt="umansafdar" /></a> </p>
