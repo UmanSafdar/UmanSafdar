@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 📫 How to reach me **umansafar@gmail.com**
+- **https://www.linkedin.com/in/uman-safdar-b29b04328/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
