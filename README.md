@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umansafdar" alt="umansafdar" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently sharpening my logic with Data Structures & Algorithms in C++ (30+ LeetCode problems solved).
 
 - 📫 How to reach me **umansafar@gmail.com**
 - **https://www.linkedin.com/in/uman-safdar-b29b04328/**
